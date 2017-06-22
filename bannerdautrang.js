@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/B8WwD8' target='_blank'><img src='http://nhadathungthinh24h.net/wp-content/uploads/2017/05/can-ho-moonlight-boulevard-quan-binh-tan-15.jpg' width='500px'/><br/>căn hộ Melody 2 Lũy Bán Bích Tân Phú</a>. Liên hệ PKH Hưng Thịnh Corp : 0906687539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/B8WwD8' target='_blank'><img src='http://nhadathungthinh24h.net/wp-content/uploads/2017/05/universe-villas-cam-ranh.jpg/wp-content/uploads/2017/05/can-ho-moonlight-boulevard-quan-binh-tan-15.jpg' width='500px'/><br/>căn hộ Melody 2 Lũy Bán Bích Tân Phú</a>. Liên hệ PKH Hưng Thịnh Corp : 0906687539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
