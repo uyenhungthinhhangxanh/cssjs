@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/FziG5Y/B8WwD8' target='_blank'><img src='http://hungthinhcorp.com.vn/2017//media/upload/images/hung-thinh-corp-222c80fabe10e657.jpg' width='500px'/><br/>căn hộ Melody 2 Lũy Bán Bích Tân Phú</a>. Liên hệ PKH Hưng Thịnh Corp : 0906687539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/FziG5Y/B8WwD8' target='_blank'><img src='http://nhadathungthinh24h.net/wp-content/uploads/2017/05/banner_camranhmystery.jpg' width='500px'/><br/>căn hộ Melody 2 Lũy Bán Bích Tân Phú</a>. Liên hệ PKH Hưng Thịnh Corp : 0906687539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
