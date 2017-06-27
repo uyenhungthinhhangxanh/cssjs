@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/5Qkk9e' target='_blank'><img src='http://nhadathungthinh24h.net/wp-content/uploads/2017/05/dat-nen-nghi-duong-golden-bay-cam-ranh-30.jpg' width='500px'/><br/> Cam Ranh Mystery Bãi Dài </a>. Liên hệ PKH Hưng Thịnh Corp : 0906.687.539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/5Qkk9e' target='_blank'><img src='http://nhadathungthinh24h.net/wp-content/uploads/2017/05/banner_rich_8_8.jpg' width='500px'/><br/> Cam Ranh Mystery Bãi Dài </a>. Liên hệ PKH Hưng Thịnh Corp : 0906.687.539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
