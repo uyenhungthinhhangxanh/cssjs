@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://nhadathungthinh24h.net'>http://nhadathungthinh24h.net"+document.location.pathname+"</a>";
+    
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
